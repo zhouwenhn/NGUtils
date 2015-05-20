@@ -1,4 +1,4 @@
-package cn.ninegame.guild.biz.common.adapter;
+package com.keger.utils.adapterhelper;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
